@@ -1,0 +1,51 @@
+﻿生成启动时间为 2019/9/11 19:16:40。
+     1>项目“E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\StudentScoreSystem\StudentScoreSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\StudentScoreSystem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         G:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\StudentScoreSystem.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt InfoFile.cpp LoginDlg.cpp MainFrm.cpp OperatePart.cpp SelectPart.cpp StudentScoreSystem.cpp StudentScoreSystemDoc.cpp StudentScoreSystemView.cpp SysBasicInfo.cpp SysBasicManager.cpp SysScore.cpp SysScoreList.cpp SysScoreManager.cpp SysTotal.cpp UserDlg.cpp source.cpp
+         UserDlg.cpp
+         SysTotal.cpp
+         SysScoreManager.cpp
+         SysScoreList.cpp
+         SysScore.cpp
+         SysBasicManager.cpp
+         SysBasicInfo.cpp
+         StudentScoreSystemView.cpp
+         StudentScoreSystemDoc.cpp
+         正在生成代码...
+         正在编译...
+         StudentScoreSystem.cpp
+         MainFrm.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         source.cpp
+         SelectPart.cpp
+         OperatePart.cpp
+         LoginDlg.cpp
+         InfoFile.cpp
+       Link:
+         G:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\Debug\StudentScoreSystem.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:G:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\Debug\StudentScoreSystem.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\Debug\StudentScoreSystem.lib" /MACHINE:X86 Debug\StudentScoreSystem.res
+         Debug\InfoFile.obj
+         Debug\LoginDlg.obj
+         Debug\MainFrm.obj
+         Debug\OperatePart.obj
+         Debug\SelectPart.obj
+         Debug\stdafx.obj
+         Debug\StudentScoreSystem.obj
+         Debug\StudentScoreSystemDoc.obj
+         Debug\StudentScoreSystemView.obj
+         Debug\SysBasicInfo.obj
+         Debug\SysBasicManager.obj
+         Debug\SysScore.obj
+         Debug\SysScoreList.obj
+         Debug\SysScoreManager.obj
+         Debug\SysTotal.obj
+         Debug\UserDlg.obj
+         Debug\source.obj
+         StudentScoreSystem.vcxproj -> E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\Debug\StudentScoreSystem.exe
+     1>已完成生成项目“E:\清华\程序设计\计算机程序设计（孙甲松）\大作业\StudentScoreSystem\StudentScoreSystem\StudentScoreSystem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.75
